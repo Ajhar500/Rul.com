@@ -1,0 +1,60 @@
+*{padding: 0;
+  margin:0;
+  color:white;
+  
+}
+
+
+body{background:black;
+  background-position:absolute;
+}
+
+.manu{text-align-last: center;}
+
+
+
+.manu ul li{display:inline-flex; padding:10px;text-align: center;}
+.manu ul li a{text-decoration: none;
+  color:white; transition:0.7s;
+  
+}
+
+.manu ul li a:hover{color:#C71585;}
+
+.logo{height:5%;width:150px;border-radius:15px;float:left;margin:10px;}
+
+.hd{padding:20px;}
+span{color:#C71585;}
+p{text-align: center; padding-top:-40px;font-size:15px;letter-spacing:3px;}
+
+.bt{text-align: center; padding-top:10px;}
+
+.btn{width:50px;border-radius: 10px; background-color:#C71585;border:none;padding:5px; }
+.btn a{text-align: center;text-decoration: none;color:white; }
+.gof{justify-content: space-between;}
+.gof img{height:5%;width:200px;border-radius:15px;float:left;margin:20px; padding:-25px;border-radius: 10px;}
+}
+.h2{padding: 100%;margin: 100%}
+.dad{margin: 100px; text-align: center;}
+section{background-color:#191919;height: 90vh;width:100%;border-radius: 25px;}
+.sb img {width:200px;height: 250px;border-radius: 20px;margin-right: 100px;margin: 40px;}
+.top{letter-spacing:2px;margin-top:10px;}
+.sb h1{margin-bottom:10px;font-size: 50px}
+.sb h4{letter-spacing:3px;font-size:20px;}
+.hml{align-content: center; text-align: center;background:#C71585;border:none;border-radius:15px;padding:10px; margin: 10px;}
+.M{text-align: center;}
+.M p{letter-spacing:2px;text-align: center;}
+.btnn{text-align: center;padding: 7px;margin-top: 5px;background-color:#C71585; border:none;border-color:#C71585;border-radius: 10px;}
+.btnn a{text-decoration: none;font-weight:bold;}
+.card{background-color: gray; padding: 20px;height:190px;width:170px; border-radius: 20px;}
+.service h1{text-align-last: center;margin-bottom: 10px;}
+.sv{font-size: 50px;padding-bottom: 10px;}
+.contact{height:300px;}
+.contact h1{padding: 15px;}
+.contact h4{margin-bottom: 10px;letter-spacing: 2px;}
+.form input{width:200px;margin: 5px;border-radius: 10px; padding: 5px;border-color:#C71585;background:transparent;}
+.lgn input{background:#C71585;color:white;width:50px;}
+
+
+
+
